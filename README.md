@@ -14,7 +14,7 @@
    -> apply, info(), isnull().sum(), describe() to get data for getting information related to the data for inference
    
 ### 3) EDA => corr, plotting
-   -> apply corr() to get how releted one variable is to another
+   -> apply corr() to get how releted one variable is to another  
    -> use scatter() & regplot() to get the visulization for the same
    
 ### 4) preprocessing data: independent & dependent features, train test split, standardize data, linear regression algo  
