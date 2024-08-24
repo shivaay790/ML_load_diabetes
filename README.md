@@ -4,7 +4,7 @@
 ## I) code explination
 
 ### 1) import libraries & loading the dataset
-  -> import numpy, pandas, matplotlib.pyplot
+  -> import numpy, pandas, matplotlib.pyplot  
   -> get dataset from sklearn
 
 ### 2) understanding & preparing the dataset
